@@ -10,7 +10,7 @@ The game will continue until one player wins by placing three of their marks in 
 
 <h3>Deployment</h3>
 
-<p>This game has been deployed on Vercel and can be accessed at the following link: https://my-tic-tac-toe-game.vercel.app/</p>
+<p>This game has been deployed on Vercel and can be accessed at the following link: https://jogadavelha.vercel.app/</p>
 
 <h3>Development</h3>
 
